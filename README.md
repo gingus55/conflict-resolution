@@ -1,2 +1,5 @@
 # conflict-resolution
-i'm going to resolve a conflict :)
+
+## this edit was made directly on Github :)
+
+
